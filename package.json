@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@heroicons/react": "^2.0.13",
+    "@mantine/core": "^5.6.4",
+    "@mantine/form": "^5.6.4",
+    "@mantine/hooks": "^5.6.4",
+    "@mantine/next": "^5.6.4",
+    "@mantine/notifications": "^5.7.1",
+    "@supabase/supabase-js": "^2.0.5",
+    "@types/password-hash": "^1.2.21",
+    "@types/randomstring": "^1.1.8",
+    "autoprefixer": "^10.4.13",
     "next": "13.0.2",
+    "password-hash": "^1.2.2",
+    "postcss": "^8.4.18",
+    "randomstring": "^1.2.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "tailwindcss": "^3.2.2"
   },
   "devDependencies": {
     "@types/node": "18.11.9",
